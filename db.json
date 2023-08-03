@@ -1,0 +1,117 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Anubhav",
+      "lastName": "Ojha",
+      "email": "anubhavojha9@gmail.com",
+      "dob": "2016-01-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Dipoloma",
+      "company": "DD",
+      "experience": 4,
+      "package": 4,
+      "id": 1
+    },
+    {
+      "firstName": "Mayank",
+      "lastName": "kumar",
+      "email": "dk@gmail.com",
+      "dob": "2023-08-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "Intel",
+      "experience": 3,
+      "package": 399,
+      "id": 2
+    },
+    {
+      "firstName": "Bhavesh",
+      "lastName": "Singh",
+      "email": "bhavesh@gmail.com",
+      "dob": "2023-08-02T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CTS",
+      "experience": 3,
+      "package": 7,
+      "id": 3
+    },
+    {
+      "firstName": "Vivek",
+      "lastName": "Mishra",
+      "email": "vm@gmail.com",
+      "dob": "2023-08-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CTS",
+      "experience": 2,
+      "package": 8,
+      "id": 5
+    },
+    {
+      "firstName": "somesh",
+      "lastName": "mishra",
+      "email": "test@gmail.com",
+      "dob": "2023-07-31T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Intel",
+      "experience": 2,
+      "package": 23,
+      "id": 6
+    },
+    {
+      "firstName": "Anubhav",
+      "lastName": "Ojha",
+      "email": "anubhavojha9@gmail.com",
+      "dob": "2016-01-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Dipoloma",
+      "company": "DD",
+      "experience": 4,
+      "package": 4,
+      "id": 7
+    },
+    {
+      "firstName": "Anubhav",
+      "lastName": "Ojha",
+      "email": "anubhavojha9@gmail.com",
+      "dob": "2016-01-03T18:30:00.000Z",
+      "gender": "male",
+      "education": "Dipoloma",
+      "company": "DD",
+      "experience": 4,
+      "package": 4,
+      "id": 8
+    },
+    {
+      "firstName": "Anurag",
+      "lastName": "123",
+      "email": "text@gmail.com",
+      "dob": "2023-07-31T18:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "google",
+      "experience": 3,
+      "package": 3,
+      "id": 9
+    }
+  ]
+}
